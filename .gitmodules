@@ -1,0 +1,6 @@
+[submodule "work"]
+	path = work
+	url = https://github.com/PigalovMaxim/Work
+[submodule "work1"]
+	path = work1
+	url = https://github.com/PigalovMaxim/Work
